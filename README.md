@@ -4,7 +4,8 @@
 
 # MI2RL Paper Study
 
-* MI2RL@Asan Medical Center, South Korea, Professor :  Namkug Kim
+* Paper Study about Deep Learning
+* [MI2RL](https://www.mi2rl.co/)@Asan Medical Center, South Korea, Professor :  Namkug Kim
 
 
 
