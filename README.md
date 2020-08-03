@@ -43,11 +43,11 @@
 
 ### Representation
 
-| Date | Title | Presenter |
-| ---- | ----- | --------- |
-|      |       |           |
-|      |       |           |
-|      |       |           |
+| Date       | Title                                                        | Presenter                                     |
+| ---------- | ------------------------------------------------------------ | --------------------------------------------- |
+| 2020.08.03 | [BYOL: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200803_BYOL.pdf) | [Sungman Cho](https://github.com/Sungman-Cho) |
+|            |                                                              |                                               |
+|            |                                                              |                                               |
 
 
 
