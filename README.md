@@ -6,6 +6,7 @@
 
 * Paper Study about Deep Learning
 * [MI2RL](https://www.mi2rl.co/)@Asan Medical Center, South Korea, Professor :  Namkug Kim
+* [Trello Link](https://trello.com/invite/b/of6U0rlr/d876391847be8e88252bb0dcd05eb0f8/mi2rl-paperstudy)
 
 
 
