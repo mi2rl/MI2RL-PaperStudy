@@ -20,4 +20,6 @@
 | 2020.08.10 | [Uncertainty-Aware Weakly Supervised Action Detection from Untrimmed Videos](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200810_Uncertainty-Aware%20Weakly%20Supervised%20Action%20Detection%20from%20Untrimmed%20Videos.pdf) | [Minjee Kim](https://github.com/minjeekim00)   |
 | 2020.08.31 | [Analyzing and Improving the Image Quality of StyleGAN](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200831_StyleGAN.pdf) | Kyunghwa Lee                                   |
 | 2020.08.31 | [Dynamic Routing Between Capsules](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200831_Dynamic%20Routing%20Between%20Capsules.pdf) | Dain Eun                                       |
+| 2020.09.07 | [A Closer Look at Few-Shot Classification](https://kr.investing.com/equities/lemonade-inc) | Kyuri Kim                                      |
+| 2020.09.07 | DRIT:Diver Image-to-Image Translation via Disentangled Representations | [Sungman Cho](https://github.com/Sungman-Cho)  |
 
