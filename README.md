@@ -23,6 +23,6 @@
 | 2020.08.31 | [Dynamic Routing Between Capsules](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200831_Dynamic%20Routing%20Between%20Capsules.pdf) | Dain Eun        |
 | 2020.09.07 | [A Closer Look at Few-Shot Classification](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200907_A%20Closer%20look%20at%20Few-Shot%20Classification.pdf) | Kyuri Kim       |
 | 2020.09.07 | [DRIT:Diver Image-to-Image Translation via Disentangled Representations](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200907_DRIT.pdf) | Sungman Cho     |
-| 2020.09.14 | UDA:Unsupervised Data Augmentation for Consistency Training  | Sungchul Kim    |
-| 2020.09.14 | SIREN                                                        | Ryoungwoo Jang  |
+| 2020.09.14 | [UDA:Unsupervised Data Augmentation for Consistency Training](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200914_Unsupervised%20Data%20Augmentation%20for%20Consistency%20Training.pdf) | Sungchul Kim    |
+| 2020.09.14 | [SIREN](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200914_SIREN.pdf) | Ryoungwoo Jang  |
 
