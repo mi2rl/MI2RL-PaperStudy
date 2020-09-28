@@ -25,4 +25,7 @@
 | 2020.09.07 | [DRIT:Diver Image-to-Image Translation via Disentangled Representations](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200907_DRIT.pdf) | Sungman Cho     |
 | 2020.09.14 | [UDA:Unsupervised Data Augmentation for Consistency Training](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200914_Unsupervised%20Data%20Augmentation%20for%20Consistency%20Training.pdf) | Sungchul Kim    |
 | 2020.09.14 | [SIREN](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/200914_SIREN.pdf) | Ryoungwoo Jang  |
+| 2020.09.21 | [Lagging inference networks and posterior collapse in variational autoencoders](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/20200921_Lagging%20inference%20networks%20and%20posterior%20collapse%20in%20variational%20autoencoders.pdf) | Minjee Kim      |
+| 2020.09.28 | [Probabilistic U-Net](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/20200928_Probabilistic%20U-Net.pdf) | Kyuri Kim       |
+| 2020.09.28 | [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/20200928_RAFT.pdf) | Sungman Cho     |
 
