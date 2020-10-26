@@ -28,4 +28,8 @@
 | 2020.09.21 | [Lagging inference networks and posterior collapse in variational autoencoders](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/20200921_Lagging%20inference%20networks%20and%20posterior%20collapse%20in%20variational%20autoencoders.pdf) | Minjee Kim      |
 | 2020.09.28 | [Probabilistic U-Net](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/20200928_Probabilistic%20U-Net.pdf) | Kyuri Kim       |
 | 2020.09.28 | [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/20200928_RAFT.pdf) | Sungman Cho     |
+| 2020.10.12 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | Sungman Cho     |
+| 2020.10.12 | Big Transfer (BiT): General Visual Representation Learning   | Sungman Cho     |
+| 2020.10.12 | Regularizing Class-wise Predictions via Self-knowledge Distillation | Sungchul Kim    |
+| 2020.10.19 | Semi-Supervised StyleGAN for Disentanglement Learning        | Minjee Kim      |
 
