@@ -33,4 +33,10 @@
 | 2020.10.12 | [Regularizing Class-wise Predictions via Self-knowledge Distillation](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/201012_Regularizing%20Class-wise%20Predictions%20via%20Self-knowledge%20Distillation.pdf) | Sungchul Kim    |
 | 2020.10.19 | [Semi-Supervised StyleGAN for Disentanglement Learning](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/201019_Semi-Supervised%20StyleGAN%20for%20Disentanglement%20Learning.pdf) | Minjee Kim      |
 | 2020.10.26 | [Learning Visual Context by Comparison](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/201026_Learning%20Visual%20Context%20by%20Comparison.pdf) | Kyuri Kim       |
+| 2020.11.02 | Training Generative Adversarial Networks with Limited Data | Dain Eun |
+| 2020.11.02 | [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/201102_FixMatch.%20Simplifying%20Semi-Supervised%20Learning%20with%20Consistency%20and%20Confidence.pdf) | Sungchul Kim |
+| 2020.11.09 | [Representation Learing via Invariant Causal Mechanisms](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/201109_REpresentation%20Learning%20via%20%0AInvariant%20Causal%20mechanisms(RELIC).pdf) | Sungman Cho |
+| 2020.11.16 | SEED: Self-supervised Distillation for Visual Representation | Sungman Cho |
+| 2020.11.23 | Deep Clustering for Unsupervised Learning of Visual Features | Kyuri Kim |
+| 2020.11.30 | [Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/201130_Do%20Wide%20and%20Deep%20Networks%20Learn%20the%20Same%20Things.%20Uncovering%20How%20Neural%20Network%20Representations%20Vary%20with%20Width%20and%20Depth.pdf) | Sungchul Kim |
 
