@@ -43,3 +43,4 @@
 | 2021.01.15 | Propagate Yourself: Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning | Sungman Cho |
 | 2021.01.22 | Energy-based Generative Adversarial Network | Kyuri Kim |
 | 2021.01.22 | Neural Bootstrapper | Kyuri Kim |
+| 2021.03.30 | Domain Invariant Representation Learning with Domain Density Transformations | Ryoungwoo Jang |
