@@ -39,4 +39,7 @@
 | 2020.11.16 | SEED: Self-supervised Distillation for Visual Representation | Sungman Cho |
 | 2020.11.23 | Deep Clustering for Unsupervised Learning of Visual Features | Kyuri Kim |
 | 2020.11.30 | [Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth](https://github.com/mi2rl/MI2RL-PaperStudy/blob/master/reviews/201130_Do%20Wide%20and%20Deep%20Networks%20Learn%20the%20Same%20Things.%20Uncovering%20How%20Neural%20Network%20Representations%20Vary%20with%20Width%20and%20Depth.pdf) | Sungchul Kim |
-
+| 2021.01.08 | Reliable Fidelity and Diversity Metrics for Generative Models | Minjee Kim |
+| 2021.01.15 | Propagate Yourself: Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning | Sungman Cho |
+| 2021.01.22 | Energy-based Generative Adversarial Network | Kyuri Kim |
+| 2021.01.22 | Neural Bootstrapper | Kyuri Kim |
