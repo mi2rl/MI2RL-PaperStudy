@@ -44,8 +44,13 @@
 | 2021.01.22 | Energy-based Generative Adversarial Network | Kyuri Kim |
 | 2021.01.22 | Neural Bootstrapper | Kyuri Kim |
 | 2021.03.30 | Domain Invariant Representation Learning with Domain Density Transformations | Ryoungwoo Jang |
-| 2021.01.05 | [Towards Real-World Blind Face Restoration with Generative Facial Prior](reviews/220105_Towards%20Real-World%20Blind%20Face%20Restoration%20with%20Generative%20Facial%20Prior.pdf) | Sunggu Kyung |
-| 2021.01.05 | [Vision Transformers for Dense Prediction](reviews/220105_Vision%20Transformers%20for%20Dense%20Prediction.pdf) | Yujin Nam |
+| 2021.11.10 | [UNETR: Transformers for 3D Medical Image Segmentation](reviews/211110_UNETR.pdf) | Seungjun Lee |
+| 2021.11.10 | [TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up](reviews/211110_TransGAN.pdf) | Seungjoo Park |
+| 2021.11.24 | [Bidirectional Encoder Representations from Transformers](reviews/211124_Bert.pdf) | Inhwan Kim |
+| 2021.12.15 | [ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases](reviews/211215_Convit_20211215.pdf) | Hyunjung Kim |
+| 2021.12.15 | [GraphFPN: Graph Feature Pyramid Network for Object Detection](reviews/211215_GraphFPN.pdf) | Junsik Kim |
+| 2022.01.05 | [Towards Real-World Blind Face Restoration with Generative Facial Prior](reviews/220105_Towards%20Real-World%20Blind%20Face%20Restoration%20with%20Generative%20Facial%20Prior.pdf) | Sunggu Kyung |
+| 2022.01.05 | [Vision Transformers for Dense Prediction](reviews/220105_Vision%20Transformers%20for%20Dense%20Prediction.pdf) | Yujin Nam |
 | 2022.01.12 | [Florence: A New Foundation Model for Computer Vision](reviews/220112_Florence_%20A%20New%20Foundation%20Model%20for%20Computer%20Vision.pdf) | Kyungjin Cho |
 | 2022.01.12 | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](reviews/220112_FaceShifter.pdf) | Jiheon Jeong |
 | 2022.01.26 | [CoAtNet: Marrying Convolution and Attention for All Data Sizes](reviews/220126_CoAtNet_%20Marrying%20Convolution%20and%20Attention%20for%20All%20Data%20Sizes_Zihang%20Dai,%20Hanxiao%20Liu,%20Quoc%20V.%20Le,%20Mingxing%20Tan%20Google%20Research,%20Brain%20Team%20(2021.06).pdf) | GyuJun Jeong |
