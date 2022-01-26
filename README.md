@@ -44,6 +44,8 @@
 | 2021.01.22 | Energy-based Generative Adversarial Network | Kyuri Kim |
 | 2021.01.22 | Neural Bootstrapper | Kyuri Kim |
 | 2021.03.30 | Domain Invariant Representation Learning with Domain Density Transformations | Ryoungwoo Jang |
+| 2021.01.05 | [Towards Real-World Blind Face Restoration with Generative Facial Prior](reviews/220105_Towards%20Real-World%20Blind%20Face%20Restoration%20with%20Generative%20Facial%20Prior.pdf) | Sunggu Kyung |
+| 2021.01.05 | [Vision Transformers for Dense Prediction](reviews/220105_Vision%20Transformers%20for%20Dense%20Prediction.pdf) | Yujin Nam |
 | 2022.01.12 | [Florence: A New Foundation Model for Computer Vision](reviews/220112_Florence_%20A%20New%20Foundation%20Model%20for%20Computer%20Vision.pdf) | Kyungjin Cho |
 | 2022.01.12 | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](reviews/220112_FaceShifter.pdf) | Jiheon Jeong |
 | 2022.01.26 | [CoAtNet: Marrying Convolution and Attention for All Data Sizes](reviews/220126_CoAtNet_%20Marrying%20Convolution%20and%20Attention%20for%20All%20Data%20Sizes_Zihang%20Dai,%20Hanxiao%20Liu,%20Quoc%20V.%20Le,%20Mingxing%20Tan%20Google%20Research,%20Brain%20Team%20(2021.06).pdf) | GyuJun Jeong |
