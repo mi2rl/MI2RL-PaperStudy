@@ -43,3 +43,8 @@
 | 2021.01.15 | Propagate Yourself: Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning | Sungman Cho |
 | 2021.01.22 | Energy-based Generative Adversarial Network | Kyuri Kim |
 | 2021.01.22 | Neural Bootstrapper | Kyuri Kim |
+| 2021.03.30 | Domain Invariant Representation Learning with Domain Density Transformations | Ryoungwoo Jang |
+| 2022.01.12 | [Florence: A New Foundation Model for Computer Vision](reviews/220112_Florence_%20A%20New%20Foundation%20Model%20for%20Computer%20Vision.pdf) | Kyungjin Cho |
+| 2022.01.12 | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](reviews/220112_FaceShifter.pdf) | Jiheon Jeong |
+| 2022.01.26 | [CoAtNet: Marrying Convolution and Attention for All Data Sizes](reviews/220126_CoAtNet_%20Marrying%20Convolution%20and%20Attention%20for%20All%20Data%20Sizes_Zihang%20Dai,%20Hanxiao%20Liu,%20Quoc%20V.%20Le,%20Mingxing%20Tan%20Google%20Research,%20Brain%20Team%20(2021.06).pdf) | GyuJun Jeong |
+| 2022.01.26 | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](reviews/220126_Instant%20Neural%20Graphics%20Primitives%20with%20a%20Multiresolution%20Hash%20Encoding.pdf) | Jooyoung Park |
